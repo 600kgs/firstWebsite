@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "img": "/img/kennels'-favourite.png",
+      "category": "Dog",
+      "brand": "Kennels' Favourite",
+      "price": "180 ₾",
+      "description": "Kennels Favorite Starter - ყველა ჯიშის ლეკვებისათვის, ძუძუდან მოცილების პერიოდი (ქაშაყის ხორცით)12,5კგ"
+    },
+    {
+      "id": "2",
+      "img": "/img/pro-performance.png",
+      "category": "Dog",
+      "brand": "Pro Performance",
+      "price": "120 ₾",
+      "description": "PRO PERFORMANCE - (ჰიპოალერგიული) საშუალო და დიდი ჯიშის ლეკვის, ასევე ორსული ან მეძუძური ძაღლებისთვის,  ბატკნის და მოცვის. 12კგ"
+    },
+    {
+      "id": "3",
+      "img": "/img/bonmascota.png",
+      "category": "Dog",
+      "brand": "Bonmascota",
+      "price": "160 ₾",
+      "description": "Bonmascota Junior - სრული და დაბალანსებული საკვები ლეკვებისთვის 20კგ"
+    },
+    {
+      "id": "4",
+      "img": "/img/dr.trend.png",
+      "category": "Cat",
+      "brand": "Dr.Trend",
+      "price": "165 ₾",
+      "description": "Dr.Trend Kitten - სრული მშრალი საკვები კნუტებითვის, 15კგ."
+    },
+    {
+      "id": "1",
+      "img": "/img/kennels'-favourite.png",
+      "category": "Dog",
+      "brand": "Kennels' Favourite",
+      "price": "180 ₾",
+      "description": "Kennels Favorite Starter - ყველა ჯიშის ლეკვებისათვის, ძუძუდან მოცილების პერიოდი (ქაშაყის ხორცით)12,5კგ"
+    },
+    {
+      "id": "2",
+      "img": "/img/pro-performance.png",
+      "category": "Dog",
+      "brand": "Pro Performance",
+      "price": "120 ₾",
+      "description": "PRO PERFORMANCE - (ჰიპოალერგიული) საშუალო და დიდი ჯიშის ლეკვის, ასევე ორსული ან მეძუძური ძაღლებისთვის,  ბატკნის და მოცვის. 12კგ"
+    },
+    {
+      "id": "3",
+      "img": "/img/bonmascota.png",
+      "category": "Dog",
+      "brand": "Bonmascota",
+      "price": "160 ₾",
+      "description": "Bonmascota Junior - სრული და დაბალანსებული საკვები ლეკვებისთვის 20კგ"
+    },
+    {
+      "id": "4",
+      "img": "/img/dr.trend.png",
+      "category": "Cat",
+      "brand": "Dr.Trend",
+      "price": "165 ₾",
+      "description": "Dr.Trend Kitten - სრული მშრალი საკვები კნუტებითვის, 15კგ."
+    },
+    {
+      "id": "1",
+      "img": "/img/kennels'-favourite.png",
+      "category": "Dog",
+      "brand": "Kennels' Favourite",
+      "price": "180 ₾",
+      "description": "Kennels Favorite Starter - ყველა ჯიშის ლეკვებისათვის, ძუძუდან მოცილების პერიოდი (ქაშაყის ხორცით)12,5კგ"
+    },
+    {
+      "id": "2",
+      "img": "/img/pro-performance.png",
+      "category": "Dog",
+      "brand": "Pro Performance",
+      "price": "120 ₾",
+      "description": "PRO PERFORMANCE - (ჰიპოალერგიული) საშუალო და დიდი ჯიშის ლეკვის, ასევე ორსული ან მეძუძური ძაღლებისთვის,  ბატკნის და მოცვის. 12კგ"
+    },
+    {
+      "id": "3",
+      "img": "/img/bonmascota.png",
+      "category": "Dog",
+      "brand": "Bonmascota",
+      "price": "160 ₾",
+      "description": "Bonmascota Junior - სრული და დაბალანსებული საკვები ლეკვებისთვის 20კგ"
+    },
+    {
+      "id": "4",
+      "img": "/img/Dr.Trend.png",
+      "category": "Cat",
+      "brand": "Dr.Trend",
+      "price": "165 ₾",
+      "description": "Dr.Trend Kitten - სრული მშრალი საკვები კნუტებითვის, 15კგ."
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home - 600kg</title>
+    <link rel="icon" type="image/png" href="/img/600kg-logo-icon.png">
+    <link rel="stylesheet" href="/css/reset.css">
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+    <!-- header -->
+    <header>
+        <div class="header-items">
+            <a href="">
+                <img class="logo" src="/img/600kg-logo-icon.png" alt="600kg">
+            </a>
+            <div class="search-bar">
+                <div class="search-bar-icon-container">
+                    <img class="search-bar-icon" src="/img/search-bar-icon.png">
+                </div>
+                <input type="text" id="search-input"placeholder="Search">
+            </div>
+            <nav>
+                <ul class='navigation'>
+                    <li><a href="">Home</a></li>
+                    <li><a href="/about-us.html">About Us</a></li>
+                    <li><a href="/contact.html">Contact Us</a></li>
+                </ul>
+            </nav>
+            <a href="/shopping-cart.html">
+                <div class="shopping-cart">
+                    <img class="shopping-cart-icon" src="/img/shopping-cart-icon.png">
+                </div>
+            </a>
+            <div class="burger-menu-container">
+                <img class="burger-menu" src="img/burger-menu.png" alt="burger-menu">
+            </div>
+        </div>
+    </header>
+    <div class="mobile-navigation" id="mobile-navigation">
+        <ul>
+            <li><a href="/about-us.html">About Us</a></li>
+            <li><a href="/contact.html">Contact Us</a></li>
+            <li><a href="/shopping-cart.html">Shopping Cart</a></li>
+         </ul>
+    </div>
+    <!-- left side -->
+    <main>
+        <nav class="options">
+            <p class="filter-title">Category</p>
+            <ul class='navigation2'>
+                <li>
+                    <label>
+                        <input type="checkbox" class="filter-category" value="Dog"> Dog
+                    </label>
+                </li>
+                <li>
+                    <label>
+                        <input type="checkbox" class="filter-category" value="Cat"> Cat
+                    </label>
+                </li>
+            </ul>
+            <p class="filter-title">Brand</p>
+            <ul class='navigation2'>
+                <li>
+                    <label>
+                        <input type="checkbox" class="filter-brand" value="Kennels' Favourite"> Kennels' Favourite
+                    </label>
+                </li>
+                <li>
+                    <label>
+                        <input type="checkbox" class="filter-brand" value="Pro Performance"> Pro performance
+                    </label>
+                </li>
+                <li>
+                    <label>
+                        <input type="checkbox" class="filter-brand" value="Bonmascota"> Bonmascota
+                    </label>
+                </li>
+                <li>
+                    <label>
+                        <input type="checkbox" class="filter-brand" value="Dr.Trend"> Dr.Trend
+                    </label>
+                </li>
+            </ul>
+        </nav>
+        <!-- right side -->
+        <div class="right-side" id="items-container"></div>
+    </main>
+    <!-- footer -->
+    <footer class="footer">
+        <p>© Copyright © 2025 "600kg". All rights reserved</p>
+    </footer>
+    <script src="/scripts/script.js" defer></script>
+</body>
+</html>
